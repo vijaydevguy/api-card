@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/api-card/static/css/main.fd9b02ed.css",
+    "main.js": "/api-card/static/js/main.79b2fde1.js",
+    "index.html": "/api-card/index.html",
+    "main.fd9b02ed.css.map": "/api-card/static/css/main.fd9b02ed.css.map",
+    "main.79b2fde1.js.map": "/api-card/static/js/main.79b2fde1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd9b02ed.css",
+    "static/js/main.79b2fde1.js"
+  ]
+}
